@@ -34,7 +34,15 @@ The main idea is to simulate a cinema experience in the terminal.
   - After booking, the program shows a **summary of your tickets**:movie name,showtime,seats and total amount paid.
 
 **Payment Simulation**  
-- “Pay” using **UPI, Card, or Cash** . 
+- “Pay” using **UPI, Card, or Cash** .
+
+---
+## Team Members
+
+- ABHOY CHANDA BARGAYARY- ADTU/0/2025-29/BCSM/066
+- KRISHNA MONI KALITA   - ADTU/0/2025-29/BCSM/049
+- POONAM SUBEDI         - ADTU/0/2025-29/BCSM/082
+- CHAYANIKA PATHAK      - ADTU/1/2025-29/BCSM/002
 
  
 
