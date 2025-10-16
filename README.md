@@ -1,6 +1,5 @@
 # MovieMate
 
-
 ---
 
 ## Overview 
@@ -13,7 +12,6 @@ The goal of this project is to give a mini cinema experience in a simple way, so
 ---
 
 ## Features
-
 Our project includes simple but useful features that make booking movie tickets easy and fun.
 
 ### Main Menu
