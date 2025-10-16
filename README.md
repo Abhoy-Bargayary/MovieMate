@@ -1,5 +1,5 @@
 # MovieMate
-*C++ Movie Ticket Booking System*
+
 
 ---
 
