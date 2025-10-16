@@ -37,4 +37,4 @@ The main idea is to simulate a cinema experience in the terminal.
 - “Pay” using **UPI, Card, or Cash** . 
 
  
-- Future enhancements: add ratings, reviews, or export tickets
+
