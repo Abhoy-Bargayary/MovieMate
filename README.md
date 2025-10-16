@@ -12,39 +12,44 @@ The goal of this project is to give a mini cinema experience in a simple way, so
 ---
 
 ## Features
-Our project includes simple but useful features that make booking movie tickets easy and fun.
+
+MovieMate has several simple and fun features that make booking movie tickets easy and interactive.
 
 ### Main Menu
-The main menu gives users clear options to view movies, book tickets, or exit the program. It’s simple and easy to navigate.
+- Navigate easily through options like viewing movies, booking tickets, or exiting.  
+- Handles invalid choices so the program doesn’t crash.
 
 ### Movie Selection
-Users first pick a movie from the list of available movies. After selecting the movie, the available showtimes for that movie are displayed in a single row, so it’s easy to choose.
+- Users first choose a movie from the list of available movies.  
+- After selecting a movie, the available showtimes appear in a single row for easy selection.  
+- Invalid showtime entries are handled gracefully.
 
 ### Seat Booking System
-Once a showtime is selected, users can choose their seats from a cinema-style layout:
-- `O` = Available seat  
-- `X` = Booked seat  
-
-Users can book multiple seats at once. Each row has different pricing:
-- Row A → Platinum (₹200)  
-- Row B → Gold (₹150)  
-- Other rows → Silver (₹120)
+- Choose seats from a cinema-style layout where:
+  - `O` = available  
+  - `X` = booked  
+- Book multiple seats at once.  
+- Each row has different pricing:
+  - Row A → Platinum (₹200)  
+  - Row B → Gold (₹150)  
+  - Other rows → Silver (₹120)  
+- Invalid seat entries or already booked seats are flagged and users are asked to choose again.
 
 ### Payment Simulation
-After choosing seats, users can “pay” using UPI, Card, or Cash .
+- Pay using UPI, Card, or Cash .  
+- Invalid payment options are handled automatically.
 
 ### Booking Summary
-Once the booking is complete, the system shows a summary including:
-- Movie name  
-- Selected showtime  
-- Chosen seats  
-- Total amount  
-
-This gives a clear confirmation of the booking.
+- After booking, a summary shows:
+  - Movie name  
+  - Selected showtime  
+  - Chosen seats  
+  - Total amount  
+- Gives users a clear confirmation of their booking.
 
 ---
 
-Overall, **MovieMate** gives a mini cinema experience in the terminal while staying beginner-friendly and simple to use.
+Overall, MovieMate is designed to feel like a mini cinema experience, while being simple, interactive, and beginner-friendly.
 
 ---
 ## Team Members
