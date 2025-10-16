@@ -1,0 +1,6 @@
+RRR,3h 02m,Action/Adventure,Hindi,9:00 AM|1:00 PM|5:30 PM
+Avatar: The Way of Water,3h 12m,Sci-Fi/Action,English,11:00 AM|3:15 PM|8:00 PM
+Jawan,2h 49m,Action/Thriller,Hindi,10:30 AM|2:45 PM|7:00 PM
+Titanic,3h 14m,Romance/Adventure,English,9:00 AM|1:00 PM|6:30 PM
+12th Fail,2h 26m,Inspirational/Drama,Hindi,10:00 AM|1:30 PM|5:00 PM
+DNA,2h 18m,Crime/Thriller,Hindi,11:15 AM|3:00 PM|7:45 PM
