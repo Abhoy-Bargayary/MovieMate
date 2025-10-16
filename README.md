@@ -30,6 +30,7 @@ The main idea is to simulate a cinema experience in the terminal.
   - **Row A (Platinum)** – Rs.200  
   - **Row B (Gold)** – Rs.150  
   - **Other rows (Silver)** – Rs.120
+    
 **Booking Summary**
   - After booking, the program shows a **summary of your tickets**:movie name,showtime,seats and total amount paid.
 
