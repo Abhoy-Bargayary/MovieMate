@@ -4,7 +4,7 @@
 
 ## Overview 
 
-**MovieMate is a **console-based C++ Project** that makes booking movie tickets easy and fun.  
+**MovieMate** is a **console-based C++ Project** that makes booking movie tickets easy and fun.  
 It lets users check which movies are playing, pick their favorite showtime, select seats, and see booking summary.  
 
 The goal of this project is to give a mini cinema experience in a simple way, so anyone can enjoy choosing movies and seats without any hassle.
