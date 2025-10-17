@@ -22,7 +22,7 @@ public:
     }
 
     void displaySeats() {
-        cout << "\n=============== SEATS =================\n\n";
+        cout << "\n=============== SCREEN =================\n\n";
         cout << "        ";
         for (int c = 0; c < cols; c++)
             cout << setw(3) << c + 1 << " ";
